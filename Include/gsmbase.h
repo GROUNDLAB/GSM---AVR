@@ -1,7 +1,6 @@
-	   /*AVR SOURCE FILES FOR GSM,SERIAL FUNCTIONALITY*\
-* 1%                                                    		*
-*                    Copyright (C) 2010  Justin Downs of GRounND LAB	*
-*                     www.GroundLab.cc                               	*
+/*AVR SOURCE FILES FOR GSM,SERIAL FUNCTIONALITY                         *
+*                     Copyright (C) 2010  Justin Downs of GRounND LAB	*
+*                     www.GroundLab.cc     1%                          	*
 *                                                                 	*
 * This program is free software: you can redistribute it and/or modify 	*
 * it under the terms of the GNU General Public License as published by 	*
@@ -15,11 +14,7 @@
 *                                                                      	*
 * You should have received a copy of the GNU General Public License    	*
 * with this program.  If not, see <http://www.gnu.org/licenses/>.      	* 
-***************************************************/
-
-
-
-
+************************************************************************/
 
 
 #ifndef GSM
