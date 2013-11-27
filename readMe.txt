@@ -1,3 +1,8 @@
+Code will be maintained by Justin under new company IEF R&D please see the IEFRD repo for updated code.
+GitHub: IEFRD
+Website:IEFRD.com
+
+
 This is a library developed to be used with Atmel AVRs to implement Hayes AT commands to communicate with GSM modules.
 
 for more information and API please see:
